@@ -152,12 +152,6 @@ header span {
     overflow-x: hidden;
 }
 
-
-
-
-
-
-
 .card {
     display: flex;
     flex-direction: column;
@@ -178,7 +172,7 @@ header span {
 
 .card:hover {
     opacity: 100%;
-    transform: scale(1);
+    transform: scale(1.2);
 }
 
 .card:active {
